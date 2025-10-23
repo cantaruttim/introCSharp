@@ -1,0 +1,15 @@
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\bin\Debug\net9.0\intro.exe
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\bin\Debug\net9.0\intro.deps.json
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\bin\Debug\net9.0\intro.runtimeconfig.json
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\bin\Debug\net9.0\intro.dll
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\bin\Debug\net9.0\intro.pdb
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\intro.AssemblyInfoInputs.cache
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\intro.AssemblyInfo.cs
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\intro.csproj.CoreCompileInputs.cache
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\intro.sourcelink.json
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\intro.dll
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\refint\intro.dll
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\intro.pdb
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\intro.genruntimeconfig.cache
+C:\Users\matheus.acantarutti\Desktop\csharp\intro\obj\Debug\net9.0\ref\intro.dll
